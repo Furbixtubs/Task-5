@@ -96,10 +96,11 @@ p {
     font-size: 1.75rem;
     padding: 6px;
     border: none;
-    border-radius: 6px;
+    border-radius: 15px;
     cursor: pointer;
     font-weight: 400;
     margin-top: 15px;
     cursor: pointer;
     padding: 1rem 1.25rem;
 }
+
